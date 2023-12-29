@@ -5,3 +5,10 @@ need to
  sudo apt-get install lsb-release dpkg
  </code>
  </pre>
+<br>
+and
+<br>
+<pre>
+ <code>
+pip install -r requirements.txt </code>
+ </pre>
