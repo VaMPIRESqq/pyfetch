@@ -12,3 +12,9 @@ and
  <code>
 pip install -r requirements.txt </code>
  </pre>
+<br>run<br>
+<pre>
+ <code>
+  cd pyfetch; python fetch.py 
+ </code>
+ </pre>
